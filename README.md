@@ -1,1 +1,1 @@
-# projektna-vaja-pri-ig-lu-i
+# projektna-vaja-prizig-luci
