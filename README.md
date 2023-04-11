@@ -10,3 +10,4 @@ LED,
 4 stikala,
 žice,
 upori
+![Posnetek zaslona 2023-04-05 083107](https://user-images.githubusercontent.com/129928759/231128820-939e023e-8f46-48da-83ed-529643d531c7.png)
