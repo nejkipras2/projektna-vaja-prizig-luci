@@ -19,6 +19,8 @@ upori
 
 vhodi
 
-![pna projekt](https://user-images.githubusercontent.com/129928759/232731129-b0809280-9496-4570-8b99-c5f3f28b95b8.png)
 
-![pnaprojekt](https://user-images.githubusercontent.com/129928759/232731211-1fd268cf-6dd9-4d3b-8098-0db81c672073.png)
+![pnaprojekt](https://user-images.githubusercontent.com/129928759/232732652-96b72851-ba72-4deb-b44a-3a000c68d6f7.png)
+
+
+![pna projekt](https://user-images.githubusercontent.com/129928759/232732694-6a6dcfb8-55b9-44a3-b40c-3da2d2691804.png)
