@@ -5,9 +5,15 @@ Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED
 
 Komponente in materiali:
 arduino uno,
+
 protoboard,
+
 LED,
+
 4 stikala,
+
 žice,
+
 upori
+
 ![Posnetek zaslona 2023-04-05 083107](https://user-images.githubusercontent.com/129928759/231128820-939e023e-8f46-48da-83ed-529643d531c7.png)
