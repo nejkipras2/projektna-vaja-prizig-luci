@@ -29,3 +29,7 @@ IZHODI:
 shema v EASYEDA:
 
 ![pna projekt v easy](https://user-images.githubusercontent.com/129928759/232735898-03a50a17-6f16-4321-8232-f01210688238.png)
+
+slika arduino vezja:
+
+![image](https://user-images.githubusercontent.com/129928759/232736648-db98be58-fc4c-45c1-90f3-f0b6002cab02.png)
