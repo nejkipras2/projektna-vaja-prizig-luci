@@ -20,11 +20,11 @@ upori.
 
 VHODI:
 
-![pnaprojekt](https://user-images.githubusercontent.com/129928759/232734811-953d3a95-e937-4d29-a972-2dba9c06e14f.png)
+![pnadss](https://user-images.githubusercontent.com/129928759/232752544-ef5f590e-5342-4994-810e-a456bdd1c2a3.png)
 
 IZHODI:
 
-![pna projekt](https://user-images.githubusercontent.com/129928759/232732694-6a6dcfb8-55b9-44a3-b40c-3da2d2691804.png)
+![pnaasdf](https://user-images.githubusercontent.com/129928759/232752575-48fbd7e1-90d0-4377-ab16-740938f09526.png)
 
 načrtna shema:
 
