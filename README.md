@@ -17,4 +17,8 @@ LED,
 
 upori
 
-![Posnetek zaslona 2023-04-05 083107](https://user-images.githubusercontent.com/129928759/231128820-939e023e-8f46-48da-83ed-529643d531c7.png)
+vhodi
+
+![pna projekt](https://user-images.githubusercontent.com/129928759/232731129-b0809280-9496-4570-8b99-c5f3f28b95b8.png)
+
+![pnaprojekt](https://user-images.githubusercontent.com/129928759/232731211-1fd268cf-6dd9-4d3b-8098-0db81c672073.png)
