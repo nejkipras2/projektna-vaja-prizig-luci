@@ -25,3 +25,4 @@ VHODI:
 IZHODI:
 
 ![pna projekt](https://user-images.githubusercontent.com/129928759/232732694-6a6dcfb8-55b9-44a3-b40c-3da2d2691804.png)
+
