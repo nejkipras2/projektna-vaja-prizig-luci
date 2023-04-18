@@ -26,9 +26,9 @@ IZHODI:
 
 ![pna projekt](https://user-images.githubusercontent.com/129928759/232732694-6a6dcfb8-55b9-44a3-b40c-3da2d2691804.png)
 
-shema v EASYEDA:
+načrtna shema:
 
-![pna projekt v easy](https://user-images.githubusercontent.com/129928759/232737919-d309ca15-a1e0-48a8-95a7-0a6793c2dabf.png)
+![image](https://user-images.githubusercontent.com/129928759/232747875-e3980bc9-d345-4056-9bcb-bc1c2b72015f.png)
 
 slika arduino vezja:
 
