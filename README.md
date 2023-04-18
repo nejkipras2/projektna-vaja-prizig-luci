@@ -20,7 +20,7 @@ upori.
 
 VHODI:
 
-![pnaprojekt](https://user-images.githubusercontent.com/129928759/232732652-96b72851-ba72-4deb-b44a-3a000c68d6f7.png)
+![pnaprojekt](https://user-images.githubusercontent.com/129928759/232734811-953d3a95-e937-4d29-a972-2dba9c06e14f.png)
 
 IZHODI:
 
