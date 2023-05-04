@@ -28,7 +28,7 @@ IZHODI:
 
 načrtna shema:
 
-![image](https://user-images.githubusercontent.com/129928759/232747875-e3980bc9-d345-4056-9bcb-bc1c2b72015f.png)
+![image](https://user-images.githubusercontent.com/129928759/236146167-94db35fb-056b-4c01-a427-3a15f3ffd353.png)
 
 slika arduino vezja:
 
