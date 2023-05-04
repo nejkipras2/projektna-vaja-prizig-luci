@@ -33,3 +33,6 @@ načrtna shema:
 slika arduino vezja:
 
 ![image](https://user-images.githubusercontent.com/129928759/236142873-8487819c-2060-437d-bd35-488ab5588651.png)
+
+Komentar:
+
