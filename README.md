@@ -36,3 +36,4 @@ slika arduino vezja:
 
 Komentar:
 
+arduino deluje precej dobro in ni veliko prostora za izboljšave, vendar bi se dalo izboljšati delaye.
