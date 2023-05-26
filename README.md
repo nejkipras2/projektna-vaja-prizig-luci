@@ -11,11 +11,15 @@ protoboard,
 
 LED,
 
-4 stikala,
+stikala,
 
 žice,
 
 upori.
+
+EASY-E4-UC-12RC1
+
+MITSUBISHI ALPHA
 
 
 VHODI:
@@ -56,3 +60,7 @@ arduino deluje precej dobro in ni veliko prostora za izboljšave, vendar bi se d
 vezalna shema mitsubishi:
 
 ![mitsubishi easyeda](https://github.com/nejkipras2/projektna-vaja-prizig-luci/assets/129928759/637200a3-f511-4912-836e-6d39736abb4e)
+ 
+EASY-E4-UC-12RC1 vezava:
+
+![gugugaga](https://github.com/nejkipras2/projektna-vaja-prizig-luci/assets/129928759/29fc65a5-7998-444c-8c5b-e82029f41aec)
